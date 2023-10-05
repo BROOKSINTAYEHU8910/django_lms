@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap-icons": "^1.9.1",
+    "react-router-dom": "^6.4.1",
+    "react-switch": "^7.0.0",
+    "react-youtube": "^10.0.0",
+    "sweetalert2": "^11.4.38"
+  },
+  "scripts": {
+    "dev": "node your-dev-script.js"
+  }
+}
